@@ -1,5 +1,5 @@
 {
-    "versao": 1.1,
+    "versao": 1.0,
     "discursos": [
     {
         "numero":  1,
@@ -776,11 +776,6 @@
     {
         "numero":  194,
         "tema":  "Como a sabedoria de Deus nos ajuda"
-    }
-	,
-    {
-        "numero":  195,
-        "tema":  "Teste de esboço"
-    }
+    }	
     ]
 }
